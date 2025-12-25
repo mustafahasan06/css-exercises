@@ -83,4 +83,11 @@ button.cancel {
 }
 .lower{
   display: flex;
+  gap: 5px;
+  margin-left: 13%;
+  
+}
+.text {
+  margin-left: 13%;
+  margin-bottom: 1em;
 }
